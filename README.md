@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/vanishgg/vanish-recode">
+  <a href="https://github.com/Vsolverofficial/vsolver">
     <img src="https://i.ibb.co/zhKKWyR/nigga.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Vsolver</h3>
@@ -44,6 +44,6 @@ from vsolver import VIP       # For VIP users with a key
 <p align="center">
   <h2>Usage</h2>
   <p>
-    [Provide detailed usage instructions here]
+    something here g
   </p>
 </p>
