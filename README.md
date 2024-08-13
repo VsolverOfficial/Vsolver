@@ -9,6 +9,7 @@
     <a href="https://discord.gg/Mv4YQAK8F2">Join our Discord</a>
   </p>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/Vsolverofficial/Vsolver" alt="Top Language">
   <img src="https://img.shields.io/github/last-commit/Vsolverofficial/Vsolver" alt="Last Commit">
@@ -19,14 +20,14 @@
 </p>
 
 <p align="center">
-  <h2>About Vsolver</h2>
+  <strong><h2>About Vsolver</h2></strong>
   <p>
     Vsolver is a tool for solving Hcaptcha and reCAPTCHA challenges, created by Virtual.cmd and sorrow.
   </p>
 </p>
 
 <p align="center">
-  <h2>Installation</h2>
+  <strong><h2>Installation</h2></strong>
   <p>
     > Note: The module is still in early development and is not yet available.
   </p>
@@ -41,8 +42,8 @@ from vsolver import VIP       # For VIP users with a key
 </p>
 
 <p align="center">
-  <h2>Usage</h2>
+  <strong><h2>Usage</h2></strong>
   <p>
-    bbbb
+    [Provide detailed usage instructions here]
   </p>
 </p>
