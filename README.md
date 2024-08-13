@@ -19,10 +19,11 @@
   <img src="https://img.shields.io/github/forks/Vsolverofficial/Vsolver" alt="Forks">
 </p>
 
-
+<p align="center">
 <h2 id="about">About Vsolver</h2>
 <p>Vsolver is a Hcaptcha - reCAPTCHA solver made by: Virtual.cmd - sorrow,
 </p>
+  </p>
 
 # install (module is NOT A thing yet, this is very early in development)
 ```python
