@@ -2,7 +2,6 @@
   <a href="https://github.com/vanishgg/vanish-recode">
     <img src="https://i.ibb.co/zhKKWyR/nigga.png" alt="Logo" width="100" height="100">
   </a>
-<p align="center">
   <h3>Vsolver</h3>
   <p>
     A Hcaptcha and reCAPTCHA solver primarily focused on Discord.
@@ -21,14 +20,14 @@
 </p>
 
 <p align="center">
-  <strong><h2>About Vsolver</h2></strong>
+  <h2>About Vsolver</h2>
   <p>
     Vsolver is a tool for solving Hcaptcha and reCAPTCHA challenges, created by Virtual.cmd and sorrow.
   </p>
 </p>
 
 <p align="center">
-  <strong><h2>Installation</h2></strong>
+  <h2>Installation</h2>
   <p>
     > Note: The module is still in early development and is not yet available.
   </p>
@@ -43,7 +42,7 @@ from vsolver import VIP       # For VIP users with a key
 </p>
 
 <p align="center">
-  <strong><h2>Usage</h2></strong>
+  <h2>Usage</h2>
   <p>
     [Provide detailed usage instructions here]
   </p>
