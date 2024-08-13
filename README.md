@@ -22,7 +22,7 @@
 <p align="center">
   <h2>About Vsolver</h2>
   <p>
-    Vsolver is a tool for solving Hcaptcha and reCAPTCHA challenges, created by Virtual.cmd and sorrow.
+    Vsolver is a tool for solving Hcaptcha and reCAPTCHA captchas, created by Virtual.cmd and sorrow.
   </p>
 </p>
 
