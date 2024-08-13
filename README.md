@@ -9,7 +9,6 @@
     <a href="https://discord.gg/Mv4YQAK8F2">Join our Discord</a>
   </p>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/Vsolverofficial/Vsolver" alt="Top Language">
   <img src="https://img.shields.io/github/last-commit/Vsolverofficial/Vsolver" alt="Last Commit">
