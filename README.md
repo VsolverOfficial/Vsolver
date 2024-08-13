@@ -2,8 +2,8 @@
   <a href="https://github.com/vanishgg/vanish-recode">
     <img src="https://i.ibb.co/zhKKWyR/nigga.png" alt="Logo" width="100" height="100">
   </a>
-  <h3>Vsolver</h3>
-  <p>
+  <h3 align="center">Vsolver</h3>
+  <p align="center">
     A Hcaptcha and reCAPTCHA solver primarily focused on Discord.
     <br/>
     <a href="https://discord.gg/Mv4YQAK8F2">Join our Discord</a>
