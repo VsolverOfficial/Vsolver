@@ -10,7 +10,14 @@
   </p>
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Vsolverofficial/Vsolver" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/Vsolverofficial/Vsolver" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues-closed/Vsolverofficial/Vsolver" alt="Issues Closed">
+  <img src="https://img.shields.io/github/issues/Vsolverofficial/Vsolver" alt="Issues">
+  <img src="https://img.shields.io/github/stars/Vsolverofficial/Vsolver" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Vsolverofficial/Vsolver" alt="Forks">
+</p>
 
 
 <h2 id="about">About Vsolver</h2>
